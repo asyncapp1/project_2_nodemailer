@@ -9,7 +9,7 @@ let transporter = createTransport({
     service: "gmail",
     auth: {
       user: "asyncapp1@gmail.com",
-      pass: "thajspvrrqslsehx",
+      pass: "--------------use uour password----------",
     },
   });
 
